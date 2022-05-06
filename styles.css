@@ -6,7 +6,7 @@
     background: url(./images//interior.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    height: 1oovh;
+    height: 100vh;
 }
 
 .layer{
@@ -81,8 +81,15 @@
 .card{
     margin-left: 20px;
 }
-  
-  
+#events{
+    background: url(./images/kitchen.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+} 
+ .eve-head{
+    color: #cda45e;
+ } 
   
   
   
